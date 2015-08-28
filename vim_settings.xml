@@ -1,0 +1,46 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1440605217850">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Groovy Console" timestamp="1440610949206">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1440605594623">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">YW5kcm9pZDppZD0iQCtpZC8iPjwvVGFibGVMYXlvdXQ+</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW5kcm9pZDppZD0iQCtpZC8iPjwvVGFibGVMYXlvdXQ+</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICA8c3R5bGUgbmFtZT0iQmFzZS5XaWRnZXQuQXBwQ29tcGF0LkJ1dHRvbi5Db2xvcmVkIiBwYXJlbnQ9ImFuZHJvaWQ6V2lkZ2V0Lk1hdGVyaWFsLkJ1dHRvbi5Db2xvcmVkIi8+</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PHN0eWxlIG5hbWU9IkJhc2UuVGV4dEFwcGVhcmFuY2UuQXBwQ29tcGF0LldpZGdldC5CdXR0b24uSW52ZXJzZSIgcGFyZW50PSJhbmRyb2lkOlRleHRBcHBlYXJhbmNlLk1hdGVyaWFsLldpZGdldC5CdXR0b24uSW52ZXJzZSIvPg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">YW5kcm9pZDppZD0iQCtpZC8iPjwvVGFibGVMYXlvdXQ+</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
